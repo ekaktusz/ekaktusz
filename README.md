@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary. Currently working at Everbridge Inc. as a C++ Software Engineer. I'm experienced with C++, Python and Java. I'm intersted in Game Development / Computer Graphics, Android development, Linux and Machine Learning.
+My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm intersted in Game Development / Computer Graphics, Android development, Linux and Machine Learning. 
 
 - 🎮 I’m currently working on creating a simple platformer game with C++ and SFML.
-- 📖 At the moment I'm learning advanced C++, and starting with Rust and Lua (pico 8).
-- 🌱 I'm also interested in deepening my knowledge with Java and Python.
+- 📖 At the moment I'm learning Java and C++ on deeper levels and starting with Lua (pico 8).
+- 🌱 I'm also interested in deepening my knowledge with Python.
 
 <!--
 **ekaktusz/ekaktusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
