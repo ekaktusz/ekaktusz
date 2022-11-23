@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm intersted in Game Development / Computer Graphics, Android development, Linux and Machine Learning. 
+My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm interested in Game Development / Computer Graphics, Android development, Linux and Machine Learning. 
 
 - 🎮 I’m currently working on creating a simple platformer game with C++ and SFML.
 - 📖 At the moment I'm learning C++ on deeper levels and starting with Lua (pico 8).
