@@ -2,8 +2,8 @@
 
 My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm interested in Game Development / Computer Graphics, Android development, Linux and Machine Learning. 
 
-- 🎮 I’m currently working on creating a simple platformer game with C++ and SFML.
-- 📖 At the moment I'm learning C++ on deeper levels and starting with Lua (pico 8).
+- 🎮 I’m currently working on creating a simple platformer game with C++ and [SFML](https://www.sfml-dev.org/), and exploring [raylib](https://www.raylib.com/index.html).
+- 📖 At the moment I'm learning C++ on deeper levels and starting with Lua (pico 8) (We just released our first game: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room)).
 - 🌱 I'm also interested in deepening my knowledge with Python.
 
 <!--
