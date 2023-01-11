@@ -5,7 +5,7 @@ My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently
 - 🎮 I’m currently working on creating a simple platformer game with C++ and [SFML](https://www.sfml-dev.org/), and exploring [raylib](https://www.raylib.com/index.html).
 - 📖 At the moment I'm learning C++ on deeper levels and starting with Lua ( and pico 8) (We just finished on 4th place with our first game: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room)).
 - 💡 Trying to create my own simple game engine, and tools for game development in general.
-- 🌱 I'm also interested in deepening my knowledge with Python, Rust, Go or Java. But I'm interested in any technology that is fun to use!
+- 🌱 I'm also interested in deepening my knowledge with Python, Rust, Go or Java. (Basically with in any technology that is fun to use!:D)
 
 <!--
 **ekaktusz/ekaktusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
