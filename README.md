@@ -6,7 +6,7 @@ My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently
 - 📖 At the moment I'm learning C++ on deeper levels and starting with Lua (focusing on the *awesome* [LÖVE](https://love2d.org/) framework and [PICO-8](https://www.lexaloffle.com/pico-8.php) the best fantasy console)
   - We just finished on 4th place with our first game on Game Off 2022: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room)
   - Participated on Ludum Dare 52 with our game [Ursa Maior](https://ldjam.com/events/ludum-dare/52/ursa-maior)
-- 💡 Trying to create my own simple game engine, and tools for game development in general. Currently an SFML library that use in my project.
+- 💡 Trying to create my own simple game engine, and tools for game development in general (currently working on an SFML library that I use in my projects)
 - 🌱 I'm also interested in deepening my knowledge with Python, Rust, Go or Java. (Basically with in any technology that is fun to use!)
 
 <!--
