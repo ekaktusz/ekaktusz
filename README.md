@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm interested in Game Development / Computer Graphics, Android development, Linux and Machine Learning. 
+My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently working at Everbridge Inc. I'm experienced with C++, Python and Java. I'm interested in Game Development / Computer Graphics, Backend development, Android development, Linux and Machine Learning. 
 
 - 🎮 I’m currently working on creating a simple game with C++ and [SFML](https://www.sfml-dev.org/), and exploring [raylib](https://www.raylib.com/index.html).
 - 📖 At the moment I'm learning C++ on deeper levels and starting with Lua (focusing on the *awesome* [LÖVE](https://love2d.org/) framework and [PICO-8](https://www.lexaloffle.com/pico-8.php) the best fantasy console)
   - We just finished on 4th place with our first game on Game Off 2022: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room)
   - Participated on Ludum Dare 52 with our game [Ursa Maior](https://ldjam.com/events/ludum-dare/52/ursa-maior)
 - 💡 Trying to create my own simple game engine, and tools for game development in general (currently working on an SFML library that I use in my projects)
-- 🌱 I'm also interested in deepening my knowledge with Python, Rust, Go or Java. (Basically with in any technology that is fun to use!)
+- 🌱 I started to get into backend development with Java and Spring Boot.
 
 <!--
 **ekaktusz/ekaktusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
