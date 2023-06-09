@@ -7,7 +7,6 @@ My name is Csaba Ekart I'm a Software Engineer from Budapest, Hungary, currently
   - We just finished on 4th place with our first game on Game Off 2022: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room)
   - Participated on Ludum Dare 52 with our game [Ursa Maior](https://ldjam.com/events/ludum-dare/52/ursa-maior)
 - 💡 Trying to create my own simple game engine, and tools for game development in general (currently working on an SFML library that I use in my projects)
-- 🌱 I started to get into backend development with Java and Spring Boot.
 
 <!--
 **ekaktusz/ekaktusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
