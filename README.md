@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Csaba Ekart, Software Engineer from Budapest, currently working at Everbridge Inc. I'm experienced with C++, Java, Python and C#. I'm interested in Game Development / Computer Graphics, Backend development, Android development, Linux and Machine Learning. 
+I'm Csaba Ekart, Software Engineer from Budapest. I have 5+ years of experience writing C++, Java, Python and Lua. I'm interested in Game Development / Computer Graphics, Backend development, Android development, Linux and Machine Learning. 
 - 🎮 I’m currently having fun with C++ and [SFML](https://www.sfml-dev.org/), and exploring [raylib](https://www.raylib.com/index.html).
 - We just finished on 4th place with our first game on Game Off 2022: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room) (made with [PICO-8](https://www.lexaloffle.com/pico-8.php) the best fantasy console))
 - Participated on Ludum Dare 52 with our game [Ursa Maior](https://ldjam.com/events/ludum-dare/52/ursa-maior)
