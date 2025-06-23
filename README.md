@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm Csaba Ekart, Software Engineer from Budapest, enthusiastic hobby game developer. I have 6+ years of experience writing C++, Java, Python and Lua. I use C++ and Java daytime, and C++, Rust, Godot, Lua in my hobby projects.
-- ⚡ Nowadays in my personal projects I usually use C++, Lua and Rust.
-  - For games I work alone on, I prefer to use [SFML](https://www.sfml-dev.org/) and [raylib](https://www.raylib.com/index.html), but I want to take a look on [Bevy](https://bevyengine.org/) as well.
-  - When we work in team and we need results quickly, we tend to use Godot or the amazing LÖVE framework and Lua.
-- 🎉 We finished on 4th place with our first game on Game Off 2022: [Elephant in The Room](https://zahkros.itch.io/elephant-in-the-room) (made with [PICO-8](https://www.lexaloffle.com/pico-8.php) the best fantasy console)). Since then we made several games with my friends under the "Gerappa Games" name. You can check out our works on [my itch.io page](https://ekaktusz.itch.io/).
+I'm Csaba Ekart, Software Engineer from Budapest, enthusiastic hobby game developer. I have 6+ years of experience writing C++, Java, Python and Lua (big [PICO-8](https://www.lexaloffle.com/pico-8.php) fan .
+- 🌞 During the day I do C++ and some Java, 🌚 at night C++, Lua, Rust.
+- 🔨 When I do native things: [SFML](https://www.sfml-dev.org/), [raylib](https://www.raylib.com/index.html),  [Bevy](https://bevyengine.org/).
+- 🏁 When I want to make progress quickly I love to use the amazing ❤️ LÖVE framework and Lua.
+- 🎉 With my friends we make small games under the "Gerappa Games" name. You can check out our works on [my itch.io page](https://ekaktusz.itch.io/).
 <!--
 **ekaktusz/ekaktusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
