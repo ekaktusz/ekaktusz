@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Csaba Ekart, Software Engineer from Budapest, enthusiastic hobby game developer. I have 6+ years of experience writing C++, Java, Python and Lua (big [PICO-8](https://www.lexaloffle.com/pico-8.php) fan).
+I'm Csaba, Software Engineer from Budapest, enthusiastic hobby game developer. I have 6+ years of experience writing C++, Java, Python and Lua (big [PICO-8](https://www.lexaloffle.com/pico-8.php) fan).
 - 🌞 During the day I do C++ and some Java, 🌚 at night C++, Lua, Rust.
 - 🔨 When I do native things: [SFML](https://www.sfml-dev.org/), [raylib](https://www.raylib.com/index.html), [Bevy](https://bevyengine.org/).
 - 🏁 When I want to move fast I use the *amazing* ❤️ LÖVE framework and Lua or Godot.
